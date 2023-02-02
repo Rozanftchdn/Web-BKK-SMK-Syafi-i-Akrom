@@ -1,0 +1,33 @@
+.jumbotron img {
+    max-width: 100%;
+    padding-top: 55px;
+}
+body {
+    overflow-x: hidden;
+}
+p {
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+}
+h1 {
+    font-style: oblique;
+    font-size: 35px;
+    text-align: center;
+}
+
+.text {
+    text-align: center;
+}
+.content img {
+    width: 200px;
+}
+#galeri {
+    font-style: normal;
+}
+.container1  {
+    background-color:white;  
+    font: optional;
+    padding-right: 150px;
+    padding-left: 150px;
+}
